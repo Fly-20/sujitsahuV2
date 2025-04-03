@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian modeling
+  - Bayesian computatios
+  - Spatio-temporal data modeling
 
 education:
   - area: PhD Artificial Intelligence
