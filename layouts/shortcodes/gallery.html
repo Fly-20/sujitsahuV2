@@ -1,0 +1,29 @@
+{{ $album := .Get "album" }}
+{{ $images := (where .Page.Resources "Type" "image") }}
+
+<div class="gallery">
+  {{ range $images }}
+    {{ if in .Name $album }}
+      <a href="{{ .RelPermalink }}" data-lightbox="{{ $album }}">
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy">
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
+
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .gallery img {
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    transition: transform 0.2s;
+  }
+  .gallery img:hover {
+    transform: scale(1.05);
+  }
+</style>
