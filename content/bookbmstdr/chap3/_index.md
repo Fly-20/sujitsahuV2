@@ -15,7 +15,7 @@ weight: 30
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 3
+view: card
 
 # Optional header image (relative to `static/media/` folder).
 header:
