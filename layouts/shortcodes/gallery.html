@@ -4,6 +4,8 @@
 
 <div class="gallery">
   {{ range $images }}
+  <p>Images Found: {{ len $images }}</p>
+
     {{ if in .Name $album }}
       <a href="{{ .RelPermalink }}" data-lightbox="{{ $album }}">
         <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy">
