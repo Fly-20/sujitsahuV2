@@ -96,4 +96,4 @@ By avoiding hard core mathematics and calculus, this book aims to be a bridge th
 
 {{< gallery album="bookalbum" >}}
 
-{{< list_children >}} {{< list_children >}}
+{{< list_children >}}
