@@ -93,3 +93,4 @@ By avoiding hard core mathematics and calculus, this book aims to be a bridge th
 <!-- Here is a: 
   <a href="https://www.sujitsahu.com/bmbook/9780429318443_webpdf.pdf"> web pdf version of the book. </a>  -->
 
+{{< gallery album="bookalbum" >}}
