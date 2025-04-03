@@ -1,5 +1,6 @@
 {{ $album := .Get "album" }}
 {{ $images := (where .Page.Resources "Type" "image") }}
+<p>Album: {{ $album }}</p>
 
 <div class="gallery">
   {{ range $images }}
