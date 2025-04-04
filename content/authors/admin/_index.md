@@ -2,9 +2,6 @@
 # Display name
 title: Sujit Sahu
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Sujit
 last_name: Sahu
@@ -51,18 +48,10 @@ education:
   - area: PhD in Statistics
     institution: University of Connecticut
     year: 1994
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Master of Statistics
+    institution: Indian Statistical Institute
+    year: 1989
+
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
