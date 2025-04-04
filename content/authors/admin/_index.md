@@ -48,9 +48,9 @@ interests:
   - Spatio-temporal data modeling
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: PhD in Statistics
+    institution: University of Connecticut
+    year: 1994
     date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
