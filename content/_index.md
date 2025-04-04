@@ -40,6 +40,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: R package bmstdr
+      text: ""
+      filters:
+        folders:
+          - rpackagebmstdr
+        exclude_featured: false
+    design:
+      view: citation
   - block: markdown
     content:
       title: '📚 My Research'
