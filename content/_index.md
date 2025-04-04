@@ -109,10 +109,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-title: My page
-type: landing
-
-sections:
   - block: slider
     content:
       slides:
@@ -166,7 +162,7 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
+       
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
