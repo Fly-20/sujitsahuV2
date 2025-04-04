@@ -3,7 +3,7 @@ title: Introduction to Probability, Statistics & R
 subtitle: Foundations for Data-Based Sciences (2023).
 
 
-linktitle: ipsrdbs
+linktitle: ipsRdbs
 cms_exclude: true
 
 toc: true
