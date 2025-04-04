@@ -51,7 +51,9 @@ education:
   - area: Master of Statistics
     institution: Indian Statistical Institute
     year: 1989
-
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
