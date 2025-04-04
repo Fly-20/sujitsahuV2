@@ -26,7 +26,7 @@ main:
 #    url: '#teach'
 #    weight: 60
   - name: Projects
-    url: 'project/'
+    url: 'bookipsRdbs/'
     weight: 70
   - name: Student opinion
     url: '#commentslider'
