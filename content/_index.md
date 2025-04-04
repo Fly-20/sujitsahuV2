@@ -30,6 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   - block: markdown
     content:
       title: '📚 My Research'
@@ -42,16 +52,6 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
   - block: collection
     id: papers
     content:
