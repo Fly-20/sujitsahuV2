@@ -32,7 +32,9 @@ satellite recorded ocean chlorophyll levels and sea surface temperature and also
 measurements of ocean temperature and salinity levels from  roaming Argo floats in the North Atlantic Ocean. 
 The areal unit data sets include  Covid-19 mortality in England,  vaccination coverage in Kenya, annual cancer rates in the USA,
 hospitalization rates in England and child poverty in London. For each data set a map of the study region is drawn and
-    modeling objectives are stated.
+    modeling objectives are statedd.
     
 
 <a href="../Rcode/Chapter1.html"> R code for reproducing the figures in Chapter 1. </a>  
+
+{{< gallery album="chap1figures" >}}

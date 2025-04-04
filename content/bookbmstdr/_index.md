@@ -87,7 +87,7 @@ Keeping the applied scientists  in mind, this book presents most of the modeling
 
 <p>
 This book is designed to make spatio-temporal modeling and analysis accessible and understandable to a wide audience from bachelors, masters and PhD students to researchers, from mathematicians and statisticians to practitioners in applied sciences.
-By avoiding hard core mathematics and calculus, this book aims to be a bridge that removes the statistical knowledge gap from among the applied scientists. 
+By avoiding hard core mathematics and calculus, this book aims to be a bridge that removes the statistical knowledge gap from among the applied scientistss. 
 </p>
 
 <!-- Here is a: 
@@ -96,3 +96,4 @@ By avoiding hard core mathematics and calculus, this book aims to be a bridge th
 
 {{< gallery album="bookalbum" >}}
 
+{{< list_children >}}
