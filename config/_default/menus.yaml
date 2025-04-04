@@ -14,7 +14,7 @@ main:
     url: '#featured'
     weight: 25
   - name: Book ipsRdbs
-    url: 'ipsRdbs/'
+    url: 'bookipsRdbs/'
     weight: 30
   - name: Book Bmstdr
     url: 'bookbmstdr/'
