@@ -36,7 +36,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - rpackagebmstdr
         exclude_featured: false
     design:
       view: plain
