@@ -1,5 +1,6 @@
 ---
 title: R package bmstdr
+subtitle: The package source is available  from <a href="https://CRAN.R-project.org/package=bmstdr"> CRAN  </a> and <a href="https://github.com/sujit-sahu/bmstdr/"> github.  </a> Here is   <a href="/bmbook/bmstdr-full_vignette.html"> a full version of the vignette.</a>
 cms_exclude: true
 #url: talk
 
