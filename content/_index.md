@@ -52,7 +52,7 @@ sections:
       view: card
       - block: custom
   content:
-    path: blocks/custom-snippet.html
+    path: partials/blocks/custom-snippet.html
   - block: markdown
     content:
       title: '📚 My Research'
