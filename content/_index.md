@@ -47,6 +47,9 @@ sections:
       filters:
         folders:
           - rpackagebmstdr
+        exclude_featured: false
+    design:
+      view: plain
   - block: markdown
     content:
       title: '📚 My Research'
