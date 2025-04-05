@@ -12,7 +12,7 @@ cms_exclude: true
 exclude_featured: false
 
 design:
-  view: compact
+  view: content
 
 
 # Optional cover image (relative to `assets/media/` folder).
