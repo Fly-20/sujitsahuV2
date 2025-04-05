@@ -9,7 +9,7 @@ text:
   Please reach out to collaborate 😃
 date: "2015-09-01T00:00:00Z"
 doi: ""
-<div>{{ .Content | safeHTML }}</div>
+
 
 
 # Publication type.

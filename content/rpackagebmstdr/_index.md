@@ -13,7 +13,7 @@ exclude_featured: false
 
 design:
   view: content
-<div>{{ .Content | safeHTML }}</div>
+
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
