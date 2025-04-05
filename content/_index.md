@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: 
@@ -39,7 +39,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: plain
   - block: collection
     content:
       title: R package bmstdr
