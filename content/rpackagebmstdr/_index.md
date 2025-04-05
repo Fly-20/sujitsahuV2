@@ -11,7 +11,7 @@ view: card
 image:
   caption: ''
   filename: ''
-
+---
 
 <ul>
 <li>
@@ -28,4 +28,3 @@ image:
 
 
 </ul>
----
