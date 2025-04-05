@@ -49,7 +49,7 @@ sections:
           - rpackagebmstdr
         exclude_featured: false
     design:
-      view: citation
+      view: plain
   - block: markdown
     content:
       title: '📚 My Research'
