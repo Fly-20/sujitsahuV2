@@ -36,7 +36,7 @@ sections:
       text: ""
       filters:
         folders:
-          - rpackagebmstdr
+          - publication
         exclude_featured: false
     design:
       view: plain
@@ -46,7 +46,7 @@ sections:
       text: ""
       filters:
         folders:
-          - rpackagebmstdr
+          - teaching
         exclude_featured: false
     design:
       view: plain
