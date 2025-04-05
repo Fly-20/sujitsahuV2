@@ -1,6 +1,12 @@
 ---
 title: R package bmstdr
 subtitle: The package source is available  from <a href="https://CRAN.R-project.org/package=bmstdr"> CRAN  </a> and <a href="https://github.com/sujit-sahu/bmstdr/"> github.  </a> Here is   <a href="/bmbook/bmstdr-full_vignette.html"> a full version of the vignette.</a>
+text:'
+  Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+  I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  
+  Please reach out to collaborate 😃'
 cms_exclude: true
 #url: talk
 
