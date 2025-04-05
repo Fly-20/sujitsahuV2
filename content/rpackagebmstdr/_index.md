@@ -7,11 +7,12 @@ text:
   I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
   
   Please reach out to collaborate 😃
-cms_exclude: true
+cms_exclude: false
 #url: talk
+exclude_featured: false
 
-# View
-view: compact
+design:
+  view: compact
 
 
 # Optional cover image (relative to `assets/media/` folder).
