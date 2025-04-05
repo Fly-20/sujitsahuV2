@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://www.sujitsahu.com/uploads/2023_sahuresume.pdf
     design:
       css_class: light
       background:
