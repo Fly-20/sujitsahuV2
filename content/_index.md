@@ -42,7 +42,7 @@ sections:
       view: plain
   - block: collection
     content:
-      title: R package bmstdr
+      title: R package bmstdr2
       text: ""
       filters:
         folders:
@@ -64,7 +64,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'R package bmstdr'
+      title: 'R package bmstdr1'
       subtitle: The package source is available  from <a href="https://CRAN.R-project.org/package=bmstdr"> CRAN  </a> and <a href="https://github.com/sujit-sahu/bmstdr/"> github.  </a> Here is   <a href="/bmbook/bmstdr-full_vignette.html"> a full version of the vignette.</a>
       text:
     design:
