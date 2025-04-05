@@ -9,7 +9,7 @@ text:
   Please reach out to collaborate 😃
 cms_exclude: true
 #url: talk
-exclude_featured: true
+exclude_featured: false
 
 design:
   view: card
