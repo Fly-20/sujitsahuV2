@@ -50,9 +50,6 @@ sections:
         exclude_featured: false
     design:
       view: card
-  - block: custom
-  content:
-    path: html/custom-snippet.html
   - block: markdown
     content:
       title: '📚 My Research'
