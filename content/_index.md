@@ -46,7 +46,7 @@ sections:
       text: ""
       filters:
         folders:
-          - teaching
+          - rpackagebmstdr
         exclude_featured: false
     design:
       view: plain
