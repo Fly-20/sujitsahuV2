@@ -52,8 +52,8 @@ sections:
       view: card
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: 'R package ‘bmstdr’'
+      subtitle: 'The package source is available from CRAN and github. Here is a full version of the vignette.'
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
