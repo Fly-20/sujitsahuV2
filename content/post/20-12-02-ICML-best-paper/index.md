@@ -3,7 +3,7 @@ title: Jian Yang and Monica Hall Win the Best Paper Award at Hugo Blox 2023
 date: 2020-12-02
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2023 Conference on Hugo Blox for their paper “Learning Hugo Blox”.
+Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2023 Conference on Hugo Blox for their paper “Learning Hugo Blox”.fdf
 
 <!--more-->
 
